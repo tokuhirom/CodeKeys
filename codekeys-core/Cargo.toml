@@ -30,5 +30,5 @@ apple-sys = { version = "0.2.0", features = ["CoreGraphics", "CoreFoundation"] }
 boa_engine = { version = "0.17.3", features = [] }
 boa_runtime = { version = "0.17.3" }
 boa_gc = "0.17.3"
-console = "0.15.7"
+console = "0.15.8"
 object = "0.32.2"
